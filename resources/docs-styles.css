@@ -63,6 +63,7 @@ body {
     overflow: auto;
     display: block;
     margin-left: 365px;
+    overflow-x: hidden;
 }
 
 .helpPage-footerContainer {
