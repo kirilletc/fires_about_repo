@@ -49,7 +49,7 @@ body {
     width: 365px;
     min-width: 365px;
     overflow: auto;
-    padding-top: 37px;
+    padding-top: 21px;
     position: fixed;
 }
 
@@ -114,7 +114,7 @@ body.helpPage ul.helpPage-menu li a {
     font-family: Arial;
     margin-bottom: 27px;
     display: block;
-    font-size: 21px;
+    font-size: 18px;
     opacity: 0.7;
     text-decoration: none;
 }
